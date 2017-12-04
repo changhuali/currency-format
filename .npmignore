@@ -1,7 +1,7 @@
 *~
 ~*
 *.log*
-node_module/
+node_modules/
 src/
 yarn.lock
 package-lock.json
