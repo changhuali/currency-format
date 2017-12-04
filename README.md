@@ -11,10 +11,18 @@ npm install lch-currency-format
 ## Usage
 
 ### es6
-import <yourName> from 'lch-currency-format';
+<pre>
+<code>
+import currencyFormat from 'lch-currency-format';
+</code>
+</pre>
 
 ### in nodejs
+<pre>
+<code>
 require('lch-currency-format');
+</code>
+</pre>
 
 ## example
 
