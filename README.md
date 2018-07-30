@@ -1,4 +1,4 @@
-# currency-format
+# lch-currency-format
 
 ## Introduction
 A function that splits number with comma, give it a number, you can get a currency format string
@@ -7,23 +7,23 @@ A function that splits number with comma, give it a number, you can get a curren
 
 *use npm*
 ```
-npm install currency-format
+npm install lch-currency-format
 ```
 
 ## Usage
 *es6*
 ```js
-import currencyFormat from 'currency-format';
+import currencyFormat from 'lch-currency-format';
 ```
 
 *nodejs*
 ```js
-var currencyFormat = require('currency-format');
+var currencyFormat = require('lch-currency-format');
 ```
 
 ## example
 ```js
-import currencyFormat from 'currency-format';
+import currencyFormat from 'lch-currency-format';
 const result = currencyFormat(1234567.1234);
 console.log(result);
 // outputs => '1,234,567.1234'
